@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* resume */
+.resume{
+    height: 216px;
+    width: 794px;
+    background-color: rgb(106, 105, 105);
+
+
+}
+/* myname */
+.name{
+    color:white;
+    font-size:30px;
+    font-weight: 700;
+    margin-left: 300px;
+    width: 100%;
+
+}
+/* myimg */
+.image{
+    height: 150px;
+    width: 150px;
+    margin-left: 100px;
+    background-image: url("mypic.jpg.jpg");
+    background-size: cover;
+    border-radius: 80px;
+    position: relative;
+    top: 25px;
+}
+/* skills */
+.panel1{
+    color: white;
+    margin-left: 300px;
+    font-size: 14px;
+    align-items:center;
+    text-align:center;
+    width: 100%;
+    
+}
+/* Contact Details*/
+.panel2{
+   height: 147px;
+   width: 350px;
+   background-color:rgb(142, 126, 126);
+   font-size: 14px;
+   font-weight: 700;
+text-decoration:underline;
+}
+
+/* Contacts */
+a{
+
+    margin-left: 10px;
+    text-decoration: underline;
+    font-size: 12px;
+    font-weight: 300;
+
+}
+.contact{
+    margin-left: 10px;
+}
+
+/* education Heading */
+.panel3{
+    height: 170px;
+    width: 350px;
+    background-color:rgb(142, 126, 126);
+    font-size: 14px
+    font-weight 700;
+    text-decoration: none;
+}
+/* about education */
+.educate{
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+/* education details */
+.education{
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+/* skills */
+.panel4{
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    width: 350px;
+    height: 250px;
+    background-color: rgb(142, 126, 126);
+    
+}
+/* about my skills */
+.skills{
+    margin-left: 10px;
+    position: relative;
+  top :15px;
+  text-decoration: underline;
+}
+.intro4{
+    font-size: 12px;
+    margin-left: 20px;
+    font-weight: 200;
+}
+/* Summary and Work Experience Heading */
+.container1{
+    background-color:rgb(179, 177, 177);
+ position: absolute;
+ height: 170px;
+ bottom: 260px;
+ margin-bottom: 30px;
+ left: 370px;
+ font-size: 14px;
+ font-weight: 700;
+ margin-left: 300px;
+}
+/* working experience */
+.worked{
+    text-decoration: underline;
+    position: absolute;
+    top:10px;
+    
+}
+/* summary */
+.intro{
+
+    background-color:rgb(179, 177, 177) ;
+    font-size: 12px;
+    font-weight: 300;
+    width: 430px;
+    height: 100px;
+    line-height: 17px;
+    position: absolute;
+    bottom: 50px;
+    left:370px;
+   
+}
+
+/* Summary detail */
+.container2{
+position:absolute;
+top:668px;
+}
+.introsummary{
+    height: 60px;
+    width: 430px;
+    background-color:rgb(179, 177, 177);
+    position: absolute;
+    left: 370px;
+    bottom:130px;
+    font-size: 14px;
+    font-weight: 700px;
+    text-decoration: underline;
+   
+
+}
+
+
+.intro2{
+   font-size:12px;
+   font-weight: 300;
+   width: 430px;
+   line-height:17px;
+}
+/* about myself */
+.about{
+font-size: 14px;
+    width: 430px;
+    height:82px ;
+    position: relative;
+    bottom: 70px;
+    margin-left: 370px;
+    background-color:rgb(179, 177, 177);
+    text-decoration: underline;
+}
+.intro5{
+    font-size: 12px;
+    font-weight: 300;
+    text-decoration: none;
+    line-height: 17px;
+}
+.About-me{
+    position: relative;
+    top:20px;
+}
+/* move resume to center */
+.allresume{
+    margin-left: 300px;
+}
